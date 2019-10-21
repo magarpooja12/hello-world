@@ -1,2 +1,7 @@
-# hello-world
-this is hello world program written in c language
+#include<stdio.h>
+void main()
+{
+  printf("hello world...!!!");
+  
+  printf("\nthis is the basic c program");
+  }
